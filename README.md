@@ -8,8 +8,8 @@ Rôle joué : **IA Product Manager**, sous la responsabilité d'une VP Product/P
 
 | Fichier | Description |
 |---|---|
-| `1_Backlog_UserStories_FashionInsta.xlsx` | Backlog des User Stories : démarche de recueil des besoins, pondération de la complexité, priorisation MoSCoW, MVP |
-| `2_Chiffrage_Rentabilite_FashionInsta.xlsx` | Chiffrage des charges et coûts, étude de rentabilité, planning des sprints, registre des traitements et fiche CNIL, cartographie des risques, gouvernance Scrum |
+| `1_Backlog_UserStories_FashionInsta.pdf` | Backlog des User Stories : démarche de recueil des besoins, pondération de la complexité, priorisation MoSCoW, MVP |
+| `2_Chiffrage_Rentabilite_FashionInsta.pdf` | Chiffrage des charges et coûts, étude de rentabilité, planning des sprints, registre des traitements et fiche CNIL, cartographie des risques, gouvernance Scrum |
 | `3_Presentation_COMEX_FashionInsta.pdf` | Support de présentation pour la soutenance COMEX : objectifs, ressources, méthode agile, enjeux sur les données, plan de mitigation des risques, recommandation |
 
 ## Compétences mobilisées
