@@ -1,0 +1,6 @@
+.DS_Store
+.tmp.driveupload/
+.tmp.drivedownload/
+~$*.xlsx
+~$*.pptx
+notes_arguments_COMEX.odt
